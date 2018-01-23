@@ -1,0 +1,29 @@
+{
+  "name": "text-analytics-chatbot-example",
+  "version": "1.0.0",
+  "description": "Example chatbot using Text Analytics Api form Microsoft with BeBot Library Interface.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ElitosGon/bebotExamples.git"
+  },
+  "keywords": [
+    "BeBot",
+    "Library"
+  ],
+  "author": "Elias Gonzalez",
+  "license": "Unlicense",
+  "bugs": {
+    "url": "https://github.com/ElitosGon/bebotExamples/issues"
+  },
+  "homepage": "https://github.com/ElitosGon/bebotExamples/tree/feedback-example/textAnalytics-chatbot-example",
+  "dependencies": {
+    "bebot-library": "^1.0.2",
+    "botbuilder": "^3.13.1",
+    "dotenv": "^4.0.0",
+    "restify": "^6.3.4"
+  }
+}

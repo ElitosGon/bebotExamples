@@ -1,4 +1,4 @@
-# bebotExamples
+# bebotExamples (v1.0)
 Chatbots examples using Microsoft Bot Builder SDK (Node JS) and BeBot Library. 
 
 ## Examples Directory

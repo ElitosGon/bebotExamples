@@ -2,10 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="583a7912-6f78-4466-a47f-afe82ce44996" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/translator-chatbot-example/README.md" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/translator-chatbot-example/.env" afterPath="$PROJECT_DIR$/translator-chatbot-example/.env" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/translator-chatbot-example/app.js" afterPath="$PROJECT_DIR$/translator-chatbot-example/app.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/README.md" afterPath="$PROJECT_DIR$/README.md" />
     </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
     <ignored path="$PROJECT_DIR$/temp/" />
@@ -31,7 +28,6 @@
         <option value="$PROJECT_DIR$/textAnalytics-chatbot-example/README.md" />
         <option value="$PROJECT_DIR$/textAnalytics-chatbot-example/package.json" />
         <option value="$PROJECT_DIR$/.gitignore" />
-        <option value="$PROJECT_DIR$/README.md" />
         <option value="$PROJECT_DIR$/spellcheck-chatbot-example/package.json" />
         <option value="$PROJECT_DIR$/feedback-chatbot-example/app.js" />
         <option value="$PROJECT_DIR$/spellcheck-chatbot-example/.env" />
@@ -41,6 +37,7 @@
         <option value="$PROJECT_DIR$/translator-chatbot-example/.env" />
         <option value="$PROJECT_DIR$/translator-chatbot-example/app.js" />
         <option value="$PROJECT_DIR$/translator-chatbot-example/README.md" />
+        <option value="$PROJECT_DIR$/README.md" />
       </list>
     </option>
   </component>
@@ -84,16 +81,6 @@
             <path>
               <item name="bebotExamples" type="b2602c69:ProjectViewProjectNode" />
               <item name="bebotExamples" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="bebotExamples" type="b2602c69:ProjectViewProjectNode" />
-              <item name="bebotExamples" type="462c0819:PsiDirectoryNode" />
-              <item name="feedback-chatbot-example" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="bebotExamples" type="b2602c69:ProjectViewProjectNode" />
-              <item name="bebotExamples" type="462c0819:PsiDirectoryNode" />
-              <item name="translator-chatbot-example" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -211,12 +198,12 @@
       <option name="presentableId" value="Default" />
       <updated>1516656904526</updated>
       <workItem from="1516656907512" duration="192000" />
-      <workItem from="1516657551502" duration="19372000" />
+      <workItem from="1516657551502" duration="19505000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="19564000" />
+    <option name="totallyTimeSpent" value="19697000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="75" y="16" width="1297" height="780" extended-state="6" />
@@ -345,17 +332,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/README.md">
-      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-        <state split_layout="SPLIT">
-          <first_editor relative-caret-position="144">
-            <caret line="8" column="64" lean-forward="false" selection-start-line="8" selection-start-column="64" selection-end-line="8" selection-end-column="64" />
-            <folding />
-          </first_editor>
-          <second_editor />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/spellcheck-chatbot-example/app.js">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="357">
@@ -369,7 +345,7 @@
         <state relative-caret-position="162">
           <caret line="27" column="134" lean-forward="true" selection-start-line="27" selection-start-column="134" selection-end-line="27" selection-end-column="134" />
           <folding>
-            <element signature="n#!!doc" expanded="true" />
+            <element signature="n#!!doc" expanded="false" />
           </folding>
         </state>
       </provider>
@@ -418,6 +394,17 @@
           <folding>
             <element signature="e#1071#1140#0" expanded="false" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/README.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="0">
+            <caret line="0" column="21" lean-forward="false" selection-start-line="0" selection-start-column="21" selection-end-line="0" selection-end-column="21" />
+            <folding />
+          </first_editor>
+          <second_editor />
         </state>
       </provider>
     </entry>

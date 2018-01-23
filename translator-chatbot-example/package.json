@@ -1,0 +1,32 @@
+{
+  "name": "translator-chatbot-example",
+  "version": "1.0.0",
+  "description": "This example transforms the input and output messages into standard language understood by the chatbot.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ElitosGon/bebotExamples.git"
+  },
+  "keywords": [
+    "BeBot",
+    "Library",
+    "BeBot",
+    "Platform"
+  ],
+  "author": "Elias Gonzalez",
+  "license": "Unlicense",
+  "bugs": {
+    "url": "https://github.com/ElitosGon/bebotExamples/issues"
+  },
+  "homepage": "https://github.com/ElitosGon/bebotExamples#readme",
+  "dependencies": {
+    "bebot-library": "^1.0.2",
+    "botbuilder": "^3.13.1",
+    "dotenv": "^4.0.0",
+    "restify": "^6.3.4",
+    "xml2js": "^0.4.19"
+  }
+}

@@ -3,7 +3,7 @@ var builder = require('botbuilder');
 var restify = require('restify');
 var parseString = require('xml2js').parseString;
 
-// Import bebot-library module Microsoft: textAnalytics
+// Import bebot-library module Microsoft: textTranslate
 var bebotLibrary = require('bebot-library');
 var translatorTextAPI = bebotLibrary.microsoft.textTranslate;
 
@@ -23,7 +23,7 @@ var connector = new builder.ChatConnector({
 // Listen for messages from users
 server.post('/api/messages', connector.listen());
 
-// BeBot library Object Interface to text Analytics API
+// BeBot library Object Interface to text translator API
 var translatorTextObject = translatorTextAPI(process.env.TRANSLATOR_TEXT_API_KEY, process.env.TRANSLATOR_TEXT_API_ENDPOINT);
 
 // Memory manage

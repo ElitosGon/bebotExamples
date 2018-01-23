@@ -19,7 +19,7 @@
   "bugs": {
     "url": "https://github.com/ElitosGon/bebotExamples/issues"
   },
-  "homepage": "https://github.com/ElitosGon/bebotExamples#readme",
+  "homepage": "https://github.com/ElitosGon/bebotExamples/tree/feedback-example/textAnalytics-chatbot-example",
   "dependencies": {
     "bebot-library": "^1.0.2",
     "botbuilder": "^3.13.1",
